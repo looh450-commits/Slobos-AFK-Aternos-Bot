@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MundoDaIner.aternos.me
-",
+    "ip": "MundoDaIner.aternos.me",
     "port": 52032,
     "version": "",
     "try-creative": false
